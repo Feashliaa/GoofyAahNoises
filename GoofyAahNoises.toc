@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: GoofyAahNoises
+## Notes: Play goofy sounds on combat events
+## Author: Feashliaa
+## Version: 1.0
+## RequiredDeps:
+GoofyAahNoises.lua
